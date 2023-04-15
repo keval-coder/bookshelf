@@ -32,7 +32,9 @@
 $ yarn install
 ```
 
-## Running the app
+## Create Database Only Table will be automatically generated when you run the code.
+
+## Running the app as watch mode
 
 ```bash
 # development
@@ -43,6 +45,12 @@ $ yarn run start:dev
 
 # production mode
 $ yarn run start:prod
+```
+
+## Swagger URL:
+
+```bashbash
+http://localhost:3000/api-document/
 ```
 
 ## Support
