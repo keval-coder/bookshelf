@@ -32,7 +32,11 @@
 $ yarn install
 ```
 
-## Create Database Only Table will be automatically generated when you run the code.
+## Create Database. Table will be automatically generated when you run the code.
+
+```bash
+CREATE DATABASE bookshelf;
+```
 
 ## Running the app as watch mode
 
