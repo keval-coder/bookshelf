@@ -35,6 +35,7 @@ $ yarn install
 ## Create Database. Table will be automatically generated when you run the code.
 
 ```bash
+#mysql command
 CREATE DATABASE bookshelf;
 ```
 
